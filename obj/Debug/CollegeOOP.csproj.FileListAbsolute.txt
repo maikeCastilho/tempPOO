@@ -1,0 +1,7 @@
+C:\Users\Maike Castilho\source\repos\CollegeOOP\bin\Debug\CollegeOOP.exe.config
+C:\Users\Maike Castilho\source\repos\CollegeOOP\bin\Debug\CollegeOOP.exe
+C:\Users\Maike Castilho\source\repos\CollegeOOP\bin\Debug\CollegeOOP.pdb
+C:\Users\Maike Castilho\source\repos\CollegeOOP\obj\Debug\CollegeOOP.csproj.AssemblyReference.cache
+C:\Users\Maike Castilho\source\repos\CollegeOOP\obj\Debug\CollegeOOP.csproj.CoreCompileInputs.cache
+C:\Users\Maike Castilho\source\repos\CollegeOOP\obj\Debug\CollegeOOP.exe
+C:\Users\Maike Castilho\source\repos\CollegeOOP\obj\Debug\CollegeOOP.pdb
